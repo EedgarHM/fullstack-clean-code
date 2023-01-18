@@ -8,14 +8,23 @@
   * MongoDB
   * GraphQL (Middlewares y APIS)
   * Postman
+  * TypeScript
+  
+### Frontend
+  * Angular
+  * Tailwind
+  * Angular Material Design
+  * Typescript
+ 
+ 
+## SOLID PRINCIPLES
   
   
   
-  
-  
-  
-  
-  
-  ### Testing
+### Testing
   * Jest 
   
+
+
+Graphics
+Sockets 
